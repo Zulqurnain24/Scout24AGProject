@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.1.5",
+  "iOS" : [
+    {
+      "name" : "CSVParser",
+      "hash" : "d10774a23925554284338fef0bfdb3e419e4bf70dd2092a2a2e825934f565826"
+    }
+  ]
+}

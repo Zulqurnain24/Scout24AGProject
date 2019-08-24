@@ -1,0 +1,33 @@
+/* 
+  Common.strings
+ //  Scout24AGProject
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+
+"LAUNCH_LABEL_TEXT" = "Scout24AGProject";
+"OK_BUTTON_TITLE" = "OK";
+
+// Reachability
+"NO_INTERNET_CONNECTION" = "We are unable to connect to the internet.  Please check your connection and try again.";
+"UNREACHABLE" = "Network Unreachable";
+
+// Network Error
+"NETWORK_ERROR" = "Network Error";
+"DATA_RETRIEVAL_ERROR" = "Data retrieval error. Please try again later.";
+"API_CANNOT_AUTHENTICATE" = "API cannot authenticate";
+"BAD_CONNECTION_TITLE" = "Bad Connection";
+"BAD_CONNECTION_TEXT" = "Make sure to connect on wifi. If you're already on wifi, then check your connection and retry.";
+"BAD_CONNECTION_GIVE_UP" = "Start over";
+"BAD_CONNECTION_ALERT_TITLE" = "Hey, are you having trouble?";
+"BAD_CONNECTION_ALERT_MESSAGE" = "Please contact mohammad.zulqurnain@gmail.com for assistance";
+"BAD_CONNECTION_ALERT_BUTTON_TITLE" = "Continue";
+
+// General Error
+"GENERAL_ERROR_TITLE" = "Whoops!";
+"GENERAL_ERROR_TEXT" = "Something when wrong. let's try again.";
+"RETRY_BUTTON_TITLE" = "Retry";
+"SERVICE_FAILURE" = "We have encountered an error. Please try again.";
+"CONTINUE_BUTTON_TITLE" = "Continue";

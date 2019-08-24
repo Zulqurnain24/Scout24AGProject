@@ -1,0 +1,11 @@
+/* 
+  SplashScreen.strings
+ //  Scout24AGProject
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+
+"SPLASH_SCREEN_TITLE" = "Scout";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";

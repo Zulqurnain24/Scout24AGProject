@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.2.1",
+  "iOS" : [
+    {
+      "name" : "JVFloatLabeledText",
+      "hash" : "ca6d90663b2d497c05d42c72595fae8b1cf1c272a90ec6d855d4f17f112e0cbf"
+    }
+  ]
+}

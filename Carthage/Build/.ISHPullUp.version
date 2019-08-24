@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.7",
+  "iOS" : [
+    {
+      "name" : "ISHPullUp",
+      "hash" : "0d3a86e28f1e2baa16e66299e2bd81bf310405867f618bfc02b9ed32870caa5b"
+    }
+  ]
+}

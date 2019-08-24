@@ -1,0 +1,15 @@
+/* 
+  PropertyDetail.strings
+ //  Scout24AGProject
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+
+"PROPERTY_DETAIL_VIEW_CONTROLLER_TITLE" = "Property Detail";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";
+"TITLE_LABEL" = "Name : ";
+"PRICE_LABEL" = "Price : € ";
+"SHOW_ON_MAP" = "Show On Map";
+"DATA_FETCH_ERROR" = "";

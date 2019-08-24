@@ -1,0 +1,11 @@
+//
+//  AdScreen.string.swift
+//  Scout24AGProject
+//
+//  Created by Mohammad Zulqarnain on 02/06/2019.
+//  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+//
+
+
+"AD_SCREEN_TITLE" = "Ad Screen";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";

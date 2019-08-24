@@ -1,0 +1,14 @@
+/* 
+  SplashScreen.strings
+ //  RockPaperScissors
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+
+"PROPERTY_LIST_SCREEN_TITLE" = "Propert List";
+"PROPERTY_TITLE" = "Properties to display today";
+"PROPERTY_LIST_SCREEN_CELL_TITLE" = "Property Name";
+"PROPERTY_LIST_SCREEN_CELL_PRICE" = "$ 0.0";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";

@@ -1,0 +1,17 @@
+#dependency injection
+github "Swinject/Swinject" ~> 2.0.0
+
+#constraints
+github "SnapKit/SnapKit" ~> 4.0.0
+
+#networking
+github "Alamofire/Alamofire"
+
+#json mapping
+github "bignerdranch/Freddy" ~> 3.0
+
+#image download 
+github "Alamofire/AlamofireImage" ~> 3.3
+
+#Internet Reachability
+github "ashleymills/Reachability.swift"
